@@ -3,4 +3,6 @@
 **/*.pyc
 **/.env
 **/.venv
+**/build
+**/*.egg-info
 fly.toml
